@@ -230,6 +230,7 @@
     padding: 14px 32px;
     border: none;
     border-radius: 4px;
+    background-color: rgba(0,0,0,0);
     color: #fff;
     margin-top: 2rem;
     cursor: pointer;
